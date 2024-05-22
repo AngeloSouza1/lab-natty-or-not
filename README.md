@@ -87,6 +87,9 @@ Publiquei o vídeo na plataforma escolhida.
 
 ## 🚀 Resultados
 #### Resultado do projeto
+#### 💡 Veja!
+
+[Assista a este vídeo sobre sua funcionalidade](https://github.com/AngeloSouza1/lab-natty-or-not/assets/104176076/82236c03-d6df-4fa7-ad40-4597d301c64a)
 
 
 ## 💭 Reflexão (Opcional)
