@@ -85,14 +85,12 @@ Publiquei o vídeo na plataforma escolhida.
 
 
 
-## 🚀 Resultados
-#### Resultado do projeto
-#### 💡 Veja!
+## 🚀 Resultado do projeto
 
 [Assista a este vídeo sobre sua funcionalidade](https://github.com/AngeloSouza1/lab-natty-or-not/assets/104176076/82236c03-d6df-4fa7-ad40-4597d301c64a)
 
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 
 Criar algo "natty" com IA é uma jornada que combina tecnologia de ponta com uma profunda compreensão da condição humana. Embora a IA possa replicar muitos aspectos do comportamento e da linguagem humana, a verdadeira autenticidade vem da capacidade de captar e transmitir as sutilezas que tornam a comunicação humana tão rica e variada. Ao enfrentar esses desafios, os desenvolvedores de IA têm a oportunidade de criar ferramentas mais empáticas, adaptáveis e úteis, que complementam e potencializam a criatividade humana, em vez de simplesmente imitá-la.
 
