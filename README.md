@@ -1,6 +1,13 @@
 
 # Podcast Intestigação Profunda (IA)
 
+
+<p align="center">
+  <img src="https://github.com/AngeloSouza1/lab-natty-or-not/blob/main/Imagens/intelig%C3%AAncia%20artificial%20o%20futuro%20da%20tecnologia.png" alt="Logo"  >
+</p>
+
+
+
 ## 📒 Descrição
 
 
